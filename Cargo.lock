@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "Optimizing_Polynomial_Multiplication_with_FFT"
+name = "Optimizing_Polynomial_Multiplication_with_Fast_Fourier_Transforms"
 version = "0.1.0"
 dependencies = [
  "rustfft",
